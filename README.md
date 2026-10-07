@@ -213,4 +213,8 @@ This will be an assessment based on an in-class write-up you will do with questi
           <li>Discusses how these choices impact user experience and accessibility.</li>
         </ul></td>
   </tr>
-</table>
+</table>starts with driving
+than getting gas or going home
+getting gas leads you too either pay or rob them
+going home leads to running out of gas and breaking down
+
